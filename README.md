@@ -1,2 +1,2 @@
 # Generous-OS-Halo
-Generous OS Halo Files.
+Generous OS 8 Halo Files. Feel free to use.
